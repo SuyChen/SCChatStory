@@ -1,0 +1,5176 @@
+{
+  "result" : {
+    "messages" : [
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:12:58.048Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "foasjhPCY6",
+        "ordinalInStory" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "OMG i’m surrounded by zombies! :-O",
+        "updatedAt" : "2015-11-05T21:12:58.048Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:12:58.366Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "sefZv2oOJK",
+        "ordinalInStory" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "they’re going to eat me alive!",
+        "updatedAt" : "2015-11-05T21:12:58.366Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:12:58.709Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "sKms3HcVng",
+        "ordinalInStory" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "save me stephen!!",
+        "updatedAt" : "2015-11-05T21:12:58.709Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:12:59.025Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "xfUPFT2n77",
+        "ordinalInStory" : 4,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "ARRRRGH",
+        "updatedAt" : "2015-11-05T21:12:59.025Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:00.005Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "bsziXECtw3",
+        "ordinalInStory" : 5,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "ha ha. very funny gina :-(",
+        "updatedAt" : "2015-11-05T21:13:00.005Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:00.354Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "dSN1G22EpE",
+        "ordinalInStory" : 6,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "u still playing?",
+        "updatedAt" : "2015-11-05T21:13:00.354Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:00.738Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "XmR3YTVk8c",
+        "ordinalInStory" : 7,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "gina?",
+        "updatedAt" : "2015-11-05T21:13:00.738Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:01.106Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "NCOrnbyrSF",
+        "ordinalInStory" : 8,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "gina!?",
+        "updatedAt" : "2015-11-05T21:13:01.106Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:01.441Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "hCl2GZNqJm",
+        "ordinalInStory" : 9,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "LOL yeah i love Zombieton USA",
+        "updatedAt" : "2015-11-05T21:13:01.441Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:01.767Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "i9vYOlM6qc",
+        "ordinalInStory" : 10,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "u haven’t met a video game u don’t love ;-)",
+        "updatedAt" : "2015-11-05T21:13:01.767Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:02.088Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "4GDGZcq0z1",
+        "ordinalInStory" : 11,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "like u!",
+        "updatedAt" : "2017-06-30T15:32:55.543Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:02.427Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "2nTgN5yvUa",
+        "ordinalInStory" : 12,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "thanks. i like u too :-)",
+        "updatedAt" : "2017-06-30T15:27:33.691Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:02.767Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "FAYCNH1WYi",
+        "ordinalInStory" : 13,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : ">:-P",
+        "updatedAt" : "2017-06-30T17:35:40.688Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:03.163Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "ddxCYW6k9p",
+        "ordinalInStory" : 14,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "u shouldn’t have left so early. i told u my parents are out of town",
+        "updatedAt" : "2015-11-05T21:13:03.163Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:03.482Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "BLOWFjVYi6",
+        "ordinalInStory" : 15,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "it’s three in the morning gina! i have to be at my job at eight :-(",
+        "updatedAt" : "2017-06-30T17:13:27.098Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:03.798Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "1Aq9O2vqHq",
+        "ordinalInStory" : 16,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "well, if you’d rather be working than gaming with me...",
+        "updatedAt" : "2017-06-30T15:22:37.662Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:04.130Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "IdVzBOwXVB",
+        "ordinalInStory" : 17,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i liked all your halloween decorations",
+        "updatedAt" : "2015-11-05T21:13:04.130Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:04.473Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "Dl2IUl8Qlw",
+        "ordinalInStory" : 18,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "aren’t they AWESOME? :-))",
+        "updatedAt" : "2017-06-30T17:26:43.223Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:04.838Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "RhAz9cA9Rd",
+        "ordinalInStory" : 19,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "it helps that we live right next to a cemetery :-O makes everything more spooky",
+        "updatedAt" : "2015-11-05T21:13:04.838Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:05.181Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "F21ab66pF2",
+        "ordinalInStory" : 20,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "only two more days til the big night. or is it...",
+        "updatedAt" : "2017-06-30T17:34:44.269Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:05.520Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "pvX4NBbGqV",
+        "ordinalInStory" : 21,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "u should get to bed! even nerds need their sleep |-O",
+        "updatedAt" : "2015-11-05T21:13:05.520Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:05.866Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "ys0ZXR4uKd",
+        "ordinalInStory" : 22,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "look who’s geeking who!",
+        "updatedAt" : "2015-11-05T21:13:05.866Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:06.200Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "BzgPQYXKgW",
+        "ordinalInStory" : 23,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "ok. i’ll just blow away these zombie presidential candidates and then",
+        "updatedAt" : "2017-06-30T17:17:14.647Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:06.524Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "xNu5iFC4WG",
+        "ordinalInStory" : 24,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "OMG",
+        "updatedAt" : "2015-11-05T21:13:06.524Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:06.874Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "WOHvkkj5MR",
+        "ordinalInStory" : 25,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "what? zombie mouse run up your",
+        "updatedAt" : "2015-11-05T21:13:06.874Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:07.219Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "1t82Ss130V",
+        "ordinalInStory" : 26,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "OMG there was a wicked loud thump on the front door stephen!",
+        "updatedAt" : "2017-06-30T15:24:51.848Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:07.540Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "Wd7v3mj9VR",
+        "ordinalInStory" : 27,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i could hear it all the way down here in the base",
+        "updatedAt" : "2015-11-05T21:13:07.540Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:07.878Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "lzLZLKWjp2",
+        "ordinalInStory" : 28,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "what’s going on?",
+        "updatedAt" : "2015-11-05T21:13:07.878Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:08.224Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "iEfoidWseL",
+        "ordinalInStory" : 29,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "u joking around gina?",
+        "updatedAt" : "2015-11-05T21:13:08.224Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:08.557Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "KgEh4C64yj",
+        "ordinalInStory" : 30,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "hello!?",
+        "updatedAt" : "2015-11-05T21:13:08.557Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:08.939Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "g0Jf9QjCFP",
+        "ordinalInStory" : 31,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "there was another loud thump!",
+        "updatedAt" : "2015-11-05T21:13:08.939Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:09.358Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "mLaY8vQBEz",
+        "ordinalInStory" : 32,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "someone knocking on your door at this hour!?",
+        "updatedAt" : "2015-11-05T21:13:09.358Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:09.677Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "zY0fr97pw4",
+        "ordinalInStory" : 33,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "yeah i know! um.. OMG another thump!",
+        "updatedAt" : "2015-11-05T21:13:09.677Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:10.010Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "olmAXvkoG9",
+        "ordinalInStory" : 34,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "it’s not going away!",
+        "updatedAt" : "2015-11-05T21:13:10.010Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:10.365Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "4gPTQzWVyk",
+        "ordinalInStory" : 35,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i’m not joking stephen!",
+        "updatedAt" : "2017-06-30T15:34:17.315Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:10.699Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "9qq4atnvnx",
+        "ordinalInStory" : 36,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "someone...or something is trying to get in!",
+        "updatedAt" : "2017-06-30T15:58:16.547Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:11.073Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "lgOv0ASe2F",
+        "ordinalInStory" : 37,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "uh...do you have a panic room in your house gina?",
+        "updatedAt" : "2015-11-05T21:13:11.073Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:11.428Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "YtRB39GNFu",
+        "ordinalInStory" : 38,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "no!",
+        "updatedAt" : "2015-11-05T21:13:11.428Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:11.750Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "kRk15cdpGR",
+        "ordinalInStory" : 39,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i...think i’d better see what it was",
+        "updatedAt" : "2015-11-05T21:13:11.750Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:12.083Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "AQjT3ZxNsC",
+        "ordinalInStory" : 40,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "ha ha. it was probably just the wind blowing a branch or something",
+        "updatedAt" : "2017-06-30T16:01:08.498Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:12.451Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "W9T5QKfj4T",
+        "ordinalInStory" : 41,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i’ve been playing too many scary video games :-O",
+        "updatedAt" : "2015-11-05T21:13:12.451Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:12.776Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "05lanAXHXz",
+        "ordinalInStory" : 42,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "careful gina. this is ‘real life’",
+        "updatedAt" : "2017-06-30T15:16:54.448Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:14.450Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "i5i7seZCbA",
+        "ordinalInStory" : 43,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i’m not hiding! from life...i’m going to check it out",
+        "updatedAt" : "2015-11-05T21:13:14.450Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:14.866Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "3kjHXJZT30",
+        "ordinalInStory" : 44,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "so what was it?",
+        "updatedAt" : "2017-06-30T15:31:16.457Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:15.208Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "ZHUylkbcJE",
+        "ordinalInStory" : 45,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "who or what made the noise?",
+        "updatedAt" : "2015-11-05T21:13:15.208Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:15.553Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "GDrGN2prW0",
+        "ordinalInStory" : 46,
+        "risk" : 0,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "hello!?",
+        "updatedAt" : "2017-06-30T17:44:33.706Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:15.915Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "29pPEBbvCv",
+        "ordinalInStory" : 47,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "gina!?",
+        "updatedAt" : "2017-06-30T15:25:36.054Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:16.248Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "STEyOQu7yb",
+        "ordinalInStory" : 48,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "THERE’S A ZOMBIE AT THE FRONT DOOR",
+        "updatedAt" : "2015-11-05T21:13:16.248Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:16.567Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "ynA2uk6YHW",
+        "ordinalInStory" : 49,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "yeah...right",
+        "updatedAt" : "2015-11-05T21:13:16.567Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:16.888Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "J7P3ozbF60",
+        "ordinalInStory" : 50,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "you’re joking >:-\\",
+        "updatedAt" : "2015-11-05T21:13:16.888Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:17.250Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "Wcl3cX0nLu",
+        "ordinalInStory" : 51,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "I’M NOT FUCKING AROUND STEPHEN",
+        "updatedAt" : "2015-11-05T21:13:17.250Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:17.576Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "uLbItxzn10",
+        "ordinalInStory" : 52,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "THERE’S A FUCKING ZOMBIE BANGING ON MY FRONT DOOR",
+        "updatedAt" : "2015-11-05T21:13:17.576Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:17.893Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "9vAjZyHbuy",
+        "ordinalInStory" : 53,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "TRYING TO GET IN",
+        "updatedAt" : "2017-06-30T15:58:36.211Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:18.210Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "Ps25j8l2Rm",
+        "ordinalInStory" : 54,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "what are u",
+        "updatedAt" : "2015-11-05T21:13:18.210Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:18.545Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "zfu1XmQBe0",
+        "ordinalInStory" : 55,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i saw him through the peephole! all bloody and ragged and dirty!",
+        "updatedAt" : "2015-11-05T21:13:18.545Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:18.887Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "CbZViAtJam",
+        "ordinalInStory" : 56,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "his face half-eaten away!!",
+        "updatedAt" : "2017-06-30T17:20:27.551Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:20.249Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "QVmrtfdNn9",
+        "ordinalInStory" : 57,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "the door’s locked but he’s rattling it",
+        "updatedAt" : "2015-11-05T21:13:20.249Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:20.593Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "bA0MO1UApr",
+        "ordinalInStory" : 58,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "OH GOD",
+        "updatedAt" : "2015-11-05T21:13:20.593Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:20.940Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "ENhBfknrAH",
+        "ordinalInStory" : 59,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "what!!??",
+        "updatedAt" : "2017-06-30T17:30:24.142Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:21.263Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "vGWT6d1vPz",
+        "ordinalInStory" : 60,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i...just heard something in the kitchen...at the back of the house.",
+        "updatedAt" : "2015-11-05T21:13:21.263Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:21.613Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "ZQQzYuUoMe",
+        "ordinalInStory" : 61,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "go upstairs to your bedroom and lock yourself in gina!! i’m on my way back over!!",
+        "updatedAt" : "2015-11-05T21:13:21.613Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:21.970Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "QtXw1jI7kb",
+        "ordinalInStory" : 62,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i’m checking it out...there aren’t any such things as actual",
+        "updatedAt" : "2015-11-05T21:13:21.970Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:22.325Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "oE6UEC758m",
+        "ordinalInStory" : 63,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "gina!?",
+        "updatedAt" : "2015-11-05T21:13:22.325Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:22.650Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "mNkWOEsGQD",
+        "ordinalInStory" : 64,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "GINA",
+        "updatedAt" : "2015-11-05T21:13:22.650Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:22.972Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "V6Gum0MYw6",
+        "ordinalInStory" : 65,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "THERE’S A ZOMBIE IN THE KITCHEN",
+        "updatedAt" : "2015-11-05T21:13:22.972Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:23.313Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "G2x5gdLC6R",
+        "ordinalInStory" : 66,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "there can’t",
+        "updatedAt" : "2017-06-30T17:43:18.828Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:23.633Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "RWqQJxPeo1",
+        "ordinalInStory" : 67,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i just saw her thru the swinging door!",
+        "updatedAt" : "2015-11-05T21:13:23.633Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:24.540Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "ySTvMLUL11",
+        "ordinalInStory" : 68,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "she came in thru the open window in the kitchen!",
+        "updatedAt" : "2015-11-05T21:13:24.540Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:24.886Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "phkdyLAYAO",
+        "ordinalInStory" : 69,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "she’s missing an arm stephen!!",
+        "updatedAt" : "2015-11-05T21:13:24.886Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:25.205Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "gGCFqeV0pu",
+        "ordinalInStory" : 70,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i’m getting my dad’s shotgun from his closet!",
+        "updatedAt" : "2015-11-05T21:13:25.205Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:25.543Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "GgVlXA3XNu",
+        "ordinalInStory" : 71,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i’m coming over gina!! i’ll be right there!!",
+        "updatedAt" : "2015-11-05T21:13:25.543Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:25.907Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "XvAk5ncDjt",
+        "ordinalInStory" : 72,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i’ll bring my brother’s duck gun!",
+        "updatedAt" : "2015-11-05T21:13:25.907Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:26.244Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "H7P3smEMGg",
+        "ordinalInStory" : 73,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "gina!?",
+        "updatedAt" : "2015-11-05T21:13:26.244Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:26.585Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "tpoag2RP7N",
+        "ordinalInStory" : 74,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "GINA",
+        "updatedAt" : "2015-11-05T21:13:26.585Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:26.907Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "bblZTg5LcB",
+        "ordinalInStory" : 75,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i kicked open the kitchen door and shot at the zombie...",
+        "updatedAt" : "2015-11-05T21:13:26.907Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:27.264Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "5NyUDhHIIi",
+        "ordinalInStory" : 76,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "but the gun didn’t fire!!",
+        "updatedAt" : "2017-06-30T15:37:07.596Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:27.611Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "0ISWHtdH4j",
+        "ordinalInStory" : 77,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "no shells! i don’t know where they are! i can’t find",
+        "updatedAt" : "2017-06-30T15:20:03.498Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:27.950Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "0L1PomAkis",
+        "ordinalInStory" : 78,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "THERE’S A ZOMBIE IN MY KITCHEN AND AT MY FRONT DOOR",
+        "updatedAt" : "2017-06-30T15:20:16.198Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:28.268Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "M8pBgtsXvZ",
+        "ordinalInStory" : 79,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "is this really happening!!??",
+        "updatedAt" : "2015-11-05T21:13:28.268Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:28.598Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "boUHM86BOO",
+        "ordinalInStory" : 80,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "HELP",
+        "updatedAt" : "2015-11-05T21:13:28.598Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:28.960Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "rvqHVTWSNy",
+        "ordinalInStory" : 81,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i’m on my way gina!!",
+        "updatedAt" : "2015-11-05T21:13:28.960Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:29.303Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "Y5lb78cgPC",
+        "ordinalInStory" : 82,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "run up to your room! lock the door! look for me out your window!",
+        "updatedAt" : "2015-11-05T21:13:29.303Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:29.640Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "jQ7ZVlps0j",
+        "ordinalInStory" : 83,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "HURRY",
+        "updatedAt" : "2015-11-05T21:13:29.640Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:30.019Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "Bygc7CBcn5",
+        "ordinalInStory" : 84,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i see u stephen! i heard your scooter and now i",
+        "updatedAt" : "2017-06-30T17:17:09.694Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:30.369Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "qEOFOwm90Z",
+        "ordinalInStory" : 85,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "BOTH ZOMBIES ARE INSIDE OF THE HOUSE",
+        "updatedAt" : "2015-11-05T21:13:30.369Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:30.707Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "0OpxcFKBsp",
+        "ordinalInStory" : 86,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i can hear them downstairs!!",
+        "updatedAt" : "2017-06-30T15:20:24.912Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:31.046Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "914kUhxDZx",
+        "ordinalInStory" : 87,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "AND NOW I SEE TWO MORE ZOMBIES COMING UP OUT OF THE GRAVES NEXT DOOR",
+        "updatedAt" : "2017-06-30T15:53:46.916Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:31.367Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "aM2u3dy5oi",
+        "ordinalInStory" : 88,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "STEPHEN",
+        "updatedAt" : "2015-11-05T21:13:31.367Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:32.816Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "3f20TvyuCy",
+        "ordinalInStory" : 89,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i’m on your front lawn gina! see me!?",
+        "updatedAt" : "2017-06-30T15:30:47.410Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:33.166Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "4Sl5uZaXu2",
+        "ordinalInStory" : 90,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "YES",
+        "updatedAt" : "2017-06-30T15:33:38.869Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:33.505Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "fe9OhSFDwE",
+        "ordinalInStory" : 91,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i’m locked and loaded",
+        "updatedAt" : "2015-11-05T21:13:33.505Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:33.825Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "2rS2eR4P1H",
+        "ordinalInStory" : 92,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "the two zombies are climbing over the cemetery fence!",
+        "updatedAt" : "2017-06-30T15:27:52.877Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:34.161Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "0v4c9EGPna",
+        "ordinalInStory" : 93,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "ON YOUR LEFT STEPHEN",
+        "updatedAt" : "2017-06-30T15:21:54.844Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:34.482Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "fZBHgIB66L",
+        "ordinalInStory" : 94,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i see them!",
+        "updatedAt" : "2015-11-05T21:13:34.482Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:34.798Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "E7m9ZOpL0n",
+        "ordinalInStory" : 95,
+        "risk" : 5,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "holy crap! they’re all dirty and bloody...faces hanging in strips.",
+        "updatedAt" : "2017-06-30T17:28:43.782Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:35.116Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "5x1VxvQ2u5",
+        "ordinalInStory" : 96,
+        "risk" : 6,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "SHOOT THE FUCKERS! THEY’RE RIGHT ON TOP OF U",
+        "updatedAt" : "2017-06-30T15:39:22.693Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:35.432Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "9Nh0cpHLfb",
+        "ordinalInStory" : 97,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "OMG that was close!!",
+        "updatedAt" : "2017-06-30T15:55:38.962Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:35.751Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "WoOGD58Jxb",
+        "ordinalInStory" : 98,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "are they...dead?",
+        "updatedAt" : "2015-11-05T21:13:35.751Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:36.085Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "PQxgucq5WQ",
+        "ordinalInStory" : 99,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "deader than ever...i think",
+        "updatedAt" : "2015-11-05T21:13:36.085Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:36.414Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "9kMDMCl2hx",
+        "ordinalInStory" : 100,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "they really flew backwards didn’t they?",
+        "updatedAt" : "2017-06-30T15:57:43.797Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:36.770Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "PW4SknZ26v",
+        "ordinalInStory" : 101,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "THERE’S A ZOMBIE RIGHT BEHIND U",
+        "updatedAt" : "2015-11-05T21:13:36.770Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:37.092Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "1fycO1T6DC",
+        "ordinalInStory" : 102,
+        "risk" : 6,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "SHOOT THE FUCKER",
+        "updatedAt" : "2017-06-30T15:24:18.532Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:37.444Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "v03ZX2VLQm",
+        "ordinalInStory" : 103,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "are u ok stephen!!??",
+        "updatedAt" : "2015-11-05T21:13:37.444Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:37.780Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "DAJsymDJ0a",
+        "ordinalInStory" : 104,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "he...touched me. grabbed my neck",
+        "updatedAt" : "2017-06-30T17:23:24.492Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:38.123Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "dRPCIp9vYe",
+        "ordinalInStory" : 105,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "let’s see if he has any identification",
+        "updatedAt" : "2015-11-05T21:13:38.123Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:38.508Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "iMhzWxmXQn",
+        "ordinalInStory" : 106,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "NEXT TO U STEPHEN! THE FEMALE ZOMBIE FROM THE KITCHEN",
+        "updatedAt" : "2015-11-05T21:13:38.508Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:38.859Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "IabJZ5RTpe",
+        "ordinalInStory" : 107,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "I’M COMING TO HELP U STEPHEN",
+        "updatedAt" : "2015-11-05T21:13:38.859Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:39.216Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "KiMp6MWVPi",
+        "ordinalInStory" : 108,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "I’M COMING",
+        "updatedAt" : "2015-11-05T21:13:39.216Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:39.565Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "AKj5DCoWFb",
+        "ordinalInStory" : 109,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "NO",
+        "updatedAt" : "2017-06-30T16:00:36.894Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:39.881Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "JGxfGiLPJd",
+        "ordinalInStory" : 110,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i got her! finally.",
+        "updatedAt" : "2015-11-05T21:13:39.881Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:40.207Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "m6CBwKxgjC",
+        "ordinalInStory" : 111,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "but she.",
+        "updatedAt" : "2015-11-05T21:13:40.207Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:40.545Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "IdTtlHp9FE",
+        "ordinalInStory" : 112,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "what!?",
+        "updatedAt" : "2015-11-05T21:13:40.545Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:40.861Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "dQxyM58M9m",
+        "ordinalInStory" : 113,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "she bit me...gina",
+        "updatedAt" : "2015-11-05T21:13:40.861Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:42.198Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "Q63ETIAtQ3",
+        "ordinalInStory" : 114,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "stephen!?",
+        "updatedAt" : "2015-11-05T21:13:42.198Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:42.771Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "qkaWnATpbR",
+        "ordinalInStory" : 115,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "why are u looking up at me like that?",
+        "updatedAt" : "2015-11-05T21:13:42.771Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:43.116Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "0TFefvgdal",
+        "ordinalInStory" : 116,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "stephen!!??",
+        "updatedAt" : "2017-06-30T15:20:36.812Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:43.434Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "euf9x3Uhx7",
+        "ordinalInStory" : 117,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "OMG YOU’RE ONE OF THEM NOW",
+        "updatedAt" : "2015-11-05T21:13:43.434Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:43.781Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "2qOV6TUJXl",
+        "ordinalInStory" : 118,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "DON’T COME INSIDE",
+        "updatedAt" : "2017-06-30T15:27:41.086Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:44.140Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "TiyYulqvsB",
+        "ordinalInStory" : 119,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "I’LL",
+        "updatedAt" : "2015-11-05T21:13:44.140Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:44.504Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "3HwlUFViNd",
+        "ordinalInStory" : 120,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "I’VE GOT SHELLS FOR THE SHOTGUN NOW",
+        "updatedAt" : "2017-06-30T15:29:40.164Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:44.826Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "Kn2Pn28Z3X",
+        "ordinalInStory" : 121,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "STOP",
+        "updatedAt" : "2015-11-05T21:13:44.826Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:45.166Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "PmSTciDc1i",
+        "ordinalInStory" : 122,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "STEPHEN",
+        "updatedAt" : "2015-11-05T21:13:45.166Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:45.505Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "e2n463MnIC",
+        "ordinalInStory" : 123,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "ok",
+        "updatedAt" : "2015-11-05T21:13:45.505Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:45.856Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "PRD3DKWLep",
+        "ordinalInStory" : 124,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i hid your dad’s shotgun shells when i was over earlier btw",
+        "updatedAt" : "2015-11-05T21:13:45.856Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:46.184Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "caL4J5le3r",
+        "ordinalInStory" : 125,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i think you know tim, zach, anna, and ben",
+        "updatedAt" : "2015-11-05T21:13:46.184Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:46.517Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "xDd15pOSv4",
+        "ordinalInStory" : 126,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "my ZOMBIE friends :-O",
+        "updatedAt" : "2015-11-05T21:13:46.517Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:46.845Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "Ctg9kdDXpf",
+        "ordinalInStory" : 127,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "why don’t u wave back at them gina?",
+        "updatedAt" : "2017-06-30T17:21:58.432Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:47.168Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "ywgCkb1z6C",
+        "ordinalInStory" : 128,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "HAPPY EARLY HALLOWEEN",
+        "updatedAt" : "2015-11-05T21:13:47.168Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:47.481Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "9LHxJjP8UM",
+        "ordinalInStory" : 129,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "you...this was all a practical joke!!??",
+        "updatedAt" : "2017-06-30T15:55:22.863Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:47.819Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "fhPEq4tj0K",
+        "ordinalInStory" : 130,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : ":D i know how much u love practical jokes",
+        "updatedAt" : "2015-11-05T21:13:47.819Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:48.174Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "7ULSuFgFRd",
+        "ordinalInStory" : 131,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "almost as much as u love gaming and halloween",
+        "updatedAt" : "2017-06-30T15:45:39.161Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:48.539Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "ytuC3HJdeE",
+        "ordinalInStory" : 132,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "stephen...",
+        "updatedAt" : "2015-11-05T21:13:48.539Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:48.865Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "qxfuq32y5z",
+        "ordinalInStory" : 133,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "THAT WAS FREAKING AWESOME!!",
+        "updatedAt" : "2015-11-05T21:13:48.865Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:49.196Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "fsaqn3Tj9N",
+        "ordinalInStory" : 134,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "u know me pretty well don’t u stephen ;^)",
+        "updatedAt" : "2015-11-05T21:13:49.196Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:49.559Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "ZDbDyrRxeK",
+        "ordinalInStory" : 135,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "i’d like to know u even better gina",
+        "updatedAt" : "2015-11-05T21:13:49.559Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:49.915Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "Dx9DsLnxKP",
+        "ordinalInStory" : 136,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "want to go to the zombie walk with me? on halloween...",
+        "updatedAt" : "2017-06-30T17:27:47.699Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:50.251Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "ZVLsZ6JFE5",
+        "ordinalInStory" : 137,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "um...let me chew on it for awhile :-P",
+        "updatedAt" : "2015-11-05T21:13:50.251Z"
+      },
+      {
+        "__type" : "Object",
+        "className" : "Message",
+        "createdAt" : "2015-11-05T21:13:50.589Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "u2ge7kBL5y",
+        "ordinalInStory" : 138,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "Y29WHBLzRu"
+        },
+        "text" : "ok. YES",
+        "updatedAt" : "2015-11-05T21:13:50.589Z"
+      }
+    ],
+    "story" : {
+      "ACL" : {
+        "*" : {
+          "read" : true
+        },
+        "QXbjKOIhHH" : {
+          "write" : true
+        }
+      },
+      "__type" : "Object",
+      "aclUpdatedAt" : {
+        "__type" : "Date",
+        "iso" : "2017-08-18T09:21:22.466Z"
+      },
+      "author" : {
+        "__type" : "Object",
+        "_perishable_token" : "GaIzvqJESWInucwCiqwnANdef",
+        "autoFolloweesFollowers" : [],
+        "bio" : "",
+        "bookmarkCount" : 0,
+        "canonicalUsername" : "lairdlong",
+        "className" : "_User",
+        "createdAt" : "2016-02-19T23:40:25.255Z",
+        "firstName" : "Laird",
+        "followerCount" : 307,
+        "followingCount" : 0,
+        "fullName" : "Laird Long",
+        "lastName" : "Long",
+        "lastNotificationCreatedAt" : {
+          "__type" : "Date",
+          "iso" : "2018-11-23T17:42:30.531Z"
+        },
+        "lastUpdateMetrics" : {
+          "__type" : "Date",
+          "iso" : "2018-11-13T16:21:00.140Z"
+        },
+        "loveCount" : 0,
+        "objectId" : "QXbjKOIhHH",
+        "profilePictureMedium" : {
+          "__type" : "File",
+          "name" : "mfp_6cf73143eafab7c9c8d11a12a3886eca46-medium.png",
+          "url" : "https://d3b7s6bg6ueiky.cloudfront.net/mfp_6cf73143eafab7c9c8d11a12a3886eca46-medium.png"
+        },
+        "profilePictureSmall" : {
+          "__type" : "File",
+          "name" : "mfp_a465c2df1841063980d209e1be41baa646-small.png",
+          "url" : "https://d3b7s6bg6ueiky.cloudfront.net/mfp_a465c2df1841063980d209e1be41baa646-small.png"
+        },
+        "readCount" : 0,
+        "updatedAt" : "2018-11-23T17:42:34.408Z",
+        "username" : "LairdLong",
+        "usernameUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2016-03-25T15:55:05.205Z"
+        },
+        "writeCount" : 37,
+        "writtenStoryReadingRightsUntil" : {
+          "__type" : "Date",
+          "iso" : "2017-08-26T19:55:43.197Z"
+        }
+      },
+      "authors" : [
+        {
+          "__type" : "Pointer",
+          "className" : "Author",
+          "objectId" : "8O8EJrz6ik"
+        }
+      ],
+      "authorsObjectIds" : [
+        "QXbjKOIhHH"
+      ],
+      "category" : {
+        "__type" : "Pointer",
+        "className" : "Genre",
+        "objectId" : "eKqHjf6bXb"
+      },
+      "characters" : [
+        {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:26:13.888Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.020Z",
+          "name" : "gamergirl",
+          "objectId" : "xtn2BTwpqU",
+          "updatedAt" : "2017-08-18T15:26:13.941Z"
+        },
+        {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "QXbjKOIhHH" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:23:59.225Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-11-05T21:12:57.355Z",
+          "name" : "stickboy",
+          "objectId" : "F9Y2bMHDMU",
+          "updatedAt" : "2017-08-18T15:23:59.232Z"
+        }
+      ],
+      "className" : "Story",
+      "commentCount" : 16,
+      "commentRatio" : 0.0070577856197618,
+      "completed_android" : 559,
+      "completed_ios" : 1324,
+      "completionData" : {
+        "episode" : {
+          "all" : {
+            "completed" : 106,
+            "completionRate" : 71.14093959731544,
+            "started" : 149
+          },
+          "android" : {
+            "completed" : 20,
+            "completionRate" : 57.142857142857146,
+            "started" : 35
+          },
+          "ios" : {
+            "completed" : 86,
+            "completionRate" : 75.43859649122807,
+            "started" : 114
+          }
+        },
+        "series" : {
+          "all" : {
+            "completionRate" : 71.14093959731544
+          },
+          "android" : {
+            "completionRate" : 57.142857142857146
+          },
+          "ios" : {
+            "completionRate" : 75.43859649122807
+          }
+        }
+      },
+      "completionDataUpdatedAt" : {
+        "__type" : "Date",
+        "iso" : "2018-12-05T06:30:05.688Z"
+      },
+      "completionRate" : 28.395267455424097,
+      "completionRateUpdatedAt" : {
+        "__type" : "Date",
+        "iso" : "2018-10-16T21:00:01.522Z"
+      },
+      "completionRate_android" : 12.968013885445078,
+      "completionRate_ios" : 60.010162601626014,
+      "country" : "en",
+      "coverImageFile" : {
+        "__type" : "File",
+        "name" : "mfp_64986d9abaa896b3fc5727541a6d3291361.jpg",
+        "url" : "https://d3b7s6bg6ueiky.cloudfront.net/mfp_64986d9abaa896b3fc5727541a6d3291361.jpg"
+      },
+      "coverImageLoRes" : {
+        "__type" : "File",
+        "name" : "mfp_a0f50204f8294848900909343b439b36361-thumbnail-lores.jpg",
+        "url" : "https://d3b7s6bg6ueiky.cloudfront.net/mfp_a0f50204f8294848900909343b439b36361-thumbnail-lores.jpg"
+      },
+      "coverImageThumbnailFile" : {
+        "__type" : "File",
+        "name" : "b279e80e23b6d7ba2eec5e703e4d14ee_file.bin",
+        "url" : "https://d3b7s6bg6ueiky.cloudfront.net/b279e80e23b6d7ba2eec5e703e4d14ee_file.bin"
+      },
+      "createdAt" : "2015-10-19T22:23:17.860Z",
+      "createdOutsideApp" : true,
+      "editedAt" : {
+        "__type" : "Date",
+        "iso" : "2017-06-30T17:44:33.706Z"
+      },
+      "editorsChoice" : false,
+      "episodeCount" : 1,
+      "episodeIndex" : 1,
+      "episodeSeriesName" : null,
+      "genre" : "Comedy",
+      "group" : 4,
+      "hidden" : false,
+      "i18n" : "fr,es,de,ja,ko,pt,it,ar,no",
+      "iOSUpdatedDerivativesAt" : {
+        "__type" : "Date",
+        "iso" : "2016-09-14T10:21:00.960Z"
+      },
+      "inappropriateContent" : false,
+      "inappropriateContentFlaggers" : [],
+      "lang" : "en",
+      "lastUpdateMetrics" : {
+        "__type" : "Date",
+        "iso" : "2018-11-26T17:34:04.861Z"
+      },
+      "loveCount" : 64,
+      "loveRatio" : 0.02762192490289167,
+      "metascore" : 47.103769636551014,
+      "objectId" : "Y29WHBLzRu",
+      "pendingDeletion" : false,
+      "previousReadVelocity" : 15,
+      "readAcceleration" : 0,
+      "readCount" : 2317,
+      "readVelocity" : 15,
+      "readable" : true,
+      "recommendable" : true,
+      "risk" : 6,
+      "riskUpdatedAt" : {
+        "__type" : "Date",
+        "iso" : "2017-12-12T05:28:08.100Z"
+      },
+      "sampleLovers" : [],
+      "scoreUpdatedAt" : {
+        "__type" : "Date",
+        "iso" : "2018-12-05T06:25:00.029Z"
+      },
+      "searchTerms" : [
+        "h",
+        "ha",
+        "hal",
+        "hall",
+        "hallo",
+        "hallow",
+        "hallowe",
+        "hallowee",
+        "halloween",
+        "l",
+        "la",
+        "lai",
+        "lair",
+        "laird",
+        "lairdl",
+        "lairdlo",
+        "lairdlon",
+        "lairdlong",
+        "lo",
+        "lon",
+        "long",
+        "m",
+        "ma",
+        "mas",
+        "mass",
+        "massa",
+        "massac",
+        "massacr",
+        "massacre",
+        "z",
+        "zo",
+        "zom",
+        "zomb",
+        "zombi",
+        "zombie"
+      ],
+      "searchTermsUpdatedAt" : {
+        "__type" : "Date",
+        "iso" : "2018-12-05T06:00:00.577Z"
+      },
+      "searchable" : true,
+      "sentimentAverage" : 2.6666666666666665,
+      "sentimentCount" : 12,
+      "seriesAverageCompletionRate" : 28.395267455424097,
+      "seriesAverageCompletionRate_android" : 12.968013885445078,
+      "seriesAverageCompletionRate_ios" : 60.010162601626014,
+      "seriesCompletionRate" : 28.395267455424097,
+      "seriesCompletionRate_android" : 12.968013885445078,
+      "seriesCompletionRate_ios" : 60.010162601626014,
+      "seriesIdentifier" : "55a79c26-93e4-0eed-6086-21af6dc0b1c4",
+      "seriesTitle" : "Halloween Zombie Massacre",
+      "seriesTitleAutoGenerated" : true,
+      "started_android" : 4097,
+      "started_ios" : 2165,
+      "storyDescription" : "gamergirl: OMG i’m surrounded by zombies! :-O",
+      "tags" : [
+        "Suspense",
+        "Thrilling",
+        "Zombie",
+        "Fun & Games",
+        "Teen"
+      ],
+      "teaserVideoUrl" : "http://dvgf17xr8ms83.cloudfront.net/Y29WHBLzRu/video_5906e73e3386a.mov",
+      "title" : "Halloween Zombie Massacre",
+      "trackMessage" : true,
+      "uid" : "halloweenzombiemassacre",
+      "updatedAt" : "2018-12-05T06:30:05.715Z",
+      "wordCount" : 803
+    }
+  }
+}

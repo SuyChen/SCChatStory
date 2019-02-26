@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="CSHomeCollectionViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="250" height="267"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="250" height="267"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="2" translatesAutoresizingMaskIntoConstraints="NO" id="mRZ-Fn-WAp">
+                        <rect key="frame" x="0.0" y="0.0" width="250" height="187.5"/>
+                        <color key="backgroundColor" red="0.1215686275" green="0.12549019610000001" blue="0.12549019610000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="mRZ-Fn-WAp" secondAttribute="height" multiplier="4:3" id="yhr-s9-qSO"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="8"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </imageView>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="asg-ze-3cG">
+                        <rect key="frame" x="0.0" y="197.5" width="65" height="16"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="65" id="7f7-Ab-igw"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="11"/>
+                        <inset key="titleEdgeInsets" minX="2" minY="0.0" maxX="0.0" maxY="0.0"/>
+                        <state key="normal" title="20.0k" image="CS_home_icon_viewer">
+                            <color key="titleColor" red="0.99607843137254903" green="0.66666666666666663" blue="0.15686274509803921" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </state>
+                    </button>
+                    <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="leading" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vU5-hN-EQ3">
+                        <rect key="frame" x="65" y="197.5" width="70" height="16"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="70" id="Qkq-a7-aab"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="11"/>
+                        <inset key="titleEdgeInsets" minX="2" minY="0.0" maxX="0.0" maxY="0.0"/>
+                        <state key="normal" title="10min" image="CS_home_icon_time">
+                            <color key="titleColor" red="0.99607843139999996" green="0.66666666669999997" blue="0.15686274510000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </state>
+                    </button>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Mid-night dfgdfgdfgdffg" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hPa-LU-xRj">
+                        <rect key="frame" x="0.0" y="213.5" width="250" height="25.5"/>
+                        <fontDescription key="fontDescription" name="TimesNewRomanPSMT" family="Times New Roman" pointSize="23"/>
+                        <color key="textColor" red="0.63529411764705879" green="0.6470588235294118" blue="0.65490196078431373" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Afonso Pinto" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bBJ-J8-RWr">
+                        <rect key="frame" x="0.0" y="239" width="69" height="16"/>
+                        <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="12"/>
+                        <color key="textColor" red="0.63529411759999999" green="0.64705882349999999" blue="0.65490196079999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="CS_home_tag_audio" translatesAutoresizingMaskIntoConstraints="NO" id="Qdz-6j-4Ew">
+                        <rect key="frame" x="200" y="171.5" width="50" height="16"/>
+                    </imageView>
+                </subviews>
+            </view>
+            <color key="backgroundColor" red="0.1215686275" green="0.12549019610000001" blue="0.12549019610000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="vU5-hN-EQ3" firstAttribute="centerY" secondItem="asg-ze-3cG" secondAttribute="centerY" id="2Sb-Ek-u9B"/>
+                <constraint firstAttribute="trailing" secondItem="mRZ-Fn-WAp" secondAttribute="trailing" id="7pU-J3-JZY"/>
+                <constraint firstAttribute="trailing" secondItem="hPa-LU-xRj" secondAttribute="trailing" id="AKI-FK-ZvO"/>
+                <constraint firstItem="bBJ-J8-RWr" firstAttribute="leading" secondItem="hPa-LU-xRj" secondAttribute="leading" id="JVG-BM-D8c"/>
+                <constraint firstItem="Qdz-6j-4Ew" firstAttribute="trailing" secondItem="mRZ-Fn-WAp" secondAttribute="trailing" id="Jfq-gY-IvO"/>
+                <constraint firstItem="asg-ze-3cG" firstAttribute="leading" secondItem="mRZ-Fn-WAp" secondAttribute="leading" id="OK6-Yd-Svw"/>
+                <constraint firstItem="hPa-LU-xRj" firstAttribute="leading" secondItem="asg-ze-3cG" secondAttribute="leading" id="SuS-dz-YlU"/>
+                <constraint firstItem="Qdz-6j-4Ew" firstAttribute="bottom" secondItem="mRZ-Fn-WAp" secondAttribute="bottom" id="ds3-vM-dM9"/>
+                <constraint firstItem="bBJ-J8-RWr" firstAttribute="top" secondItem="hPa-LU-xRj" secondAttribute="bottom" id="hb2-hR-NWZ"/>
+                <constraint firstItem="mRZ-Fn-WAp" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="k5b-Je-2Qq"/>
+                <constraint firstItem="asg-ze-3cG" firstAttribute="top" secondItem="mRZ-Fn-WAp" secondAttribute="bottom" constant="10" id="mHV-VL-FlB"/>
+                <constraint firstItem="vU5-hN-EQ3" firstAttribute="leading" secondItem="asg-ze-3cG" secondAttribute="trailing" id="qw8-nw-ufo"/>
+                <constraint firstItem="mRZ-Fn-WAp" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="qxg-5b-cWS"/>
+                <constraint firstItem="hPa-LU-xRj" firstAttribute="top" secondItem="asg-ze-3cG" secondAttribute="bottom" id="sm6-Ea-erC"/>
+            </constraints>
+            <connections>
+                <outlet property="audio_img" destination="Qdz-6j-4Ew" id="JHd-EY-meX"/>
+                <outlet property="author_lb" destination="bBJ-J8-RWr" id="UzS-vv-tWc"/>
+                <outlet property="back_img" destination="mRZ-Fn-WAp" id="T3U-1O-RQO"/>
+                <outlet property="loveCount_btn" destination="asg-ze-3cG" id="XWS-4T-UVN"/>
+                <outlet property="title_lb" destination="hPa-LU-xRj" id="leV-wq-FME"/>
+            </connections>
+            <point key="canvasLocation" x="-599" y="-45"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="2" width="1334" height="2000"/>
+        <image name="CS_home_icon_time" width="16" height="16"/>
+        <image name="CS_home_icon_viewer" width="16" height="16"/>
+        <image name="CS_home_tag_audio" width="50" height="16"/>
+    </resources>
+</document>

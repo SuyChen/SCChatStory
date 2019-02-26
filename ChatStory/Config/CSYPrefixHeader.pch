@@ -1,0 +1,67 @@
+//
+//  CSYPrefixHeader.pch
+//  CSYIntegralWall
+//
+//  Created by CSY on 2018/11/9.
+//  Copyright © 2018年 wdys. All rights reserved.
+//
+
+#ifndef CSYPrefixHeader_pch
+#define CSYPrefixHeader_pch
+
+#import "CSCustomButton.h"
+#import "CSCommonUtil.h"
+#import "CSCustomImage.h"
+#import "UIColor+CoCoColorUtil.h"
+#import "NSString+SizeCalculate.h"
+#import "UIButton+EnlargeEdge.h"
+#import "CSCustomView.h"
+#import "CSCustomLabel.h"
+#import "CSListModel.h"
+#import "CSStoryModel.h"
+#import "MJExtension.h"
+#import "CSDataHelper.h"
+#import "UIImageView+WebCache.h"
+#import "Masonry.h"
+#import "CSMessageFrame.h"
+#import "CSAudioModel.h"
+#import "AFNetworking.h"
+#import "UIButton+EnlargeEdge.h"
+#import "UIViewController+TabbarAnimation.h"
+#import "MJRefresh.h"
+#import "CSLoadingView.h"
+
+
+#define CSY_BACKGROUND_COLOR CoCo_Color(@"1F2020")
+
+#define CSY_MAIN_COLOR CoCo_Color(@"FEAA28")
+
+#define CSY_TEXT_DARK_COLOR CoCo_Color(@"A2A5A7")
+
+#define CSY_Color(R,G,B,A) [UIColor colorWithRed:(R)/255.0f green:(G)/255.0f blue:(B)/255.0f alpha:(A)]
+//适配
+#define Is_Iphone (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone)
+#define Is_Iphone_4_Or_Less (Is_Iphone && CoCo_HEIGHT < 568.0)
+#define Is_Iphone_5 (Is_Iphone && CSY_HEIGHT == 568.0)
+#define Is_Iphone_6 (Is_Iphone && CSY_HEIGHT == 667.0)
+#define Is_Iphone_6P (Is_Iphone && CSY_HEIGHT == 736.0)
+#define Is_Iphone_X (Is_Iphone && CSY_HEIGHT >= 812.0)
+#define Is_PAD  [[UIDevice currentDevice].model isEqualToString:@"iPad"]
+
+#define CSY_WIDTH    [[UIScreen mainScreen] bounds].size.width
+#define CSY_HEIGHT   [[UIScreen mainScreen] bounds].size.height
+#define CSY_StatusBarHeight (Is_Iphone_X ? 44 : 20)
+#define CSY_NavBarHeight 44.0
+#define CSY_TabBarHeight (Is_Iphone_X ? 83 : 49)
+#define CSY_TopHeight (CSY_StatusBarHeight + CSY_NavBarHeight)
+#define CSY_SafeBottomHeight (Is_Iphone_X ? 34 : 0)
+
+//加载xib
+#define CSY_LoadNib(aNibName) [[[NSBundle mainBundle] loadNibNamed:aNibName owner:nil options:nil] objectAtIndex:0]
+//弱引用
+#define CSYWeakSelf(weakSelf)  __weak __typeof(&*self)weakSelf = self;
+
+#define CSReadingRecords @"readingRecords"//阅读记录
+#define CSUpdateMyReading @"updateMyReading"//更新我的页面数据
+
+#endif /* CSYPrefixHeader_pch */

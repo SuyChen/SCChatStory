@@ -1,0 +1,5113 @@
+{
+  "result" : {
+    "messages" : [
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.312Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:36.562Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "Q8jypSJ9cH",
+        "ordinalInStory" : 1,
+        "risk" : 6,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "HOW DARE YOU SEND MY SON BOOBS PICTURES???!!!!",
+        "updatedAt" : "2017-08-18T14:03:00.318Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : false
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.864Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:36.920Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "JuimvmeIIN",
+        "ordinalInStory" : 2,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Mrs. Hernandez?",
+        "updatedAt" : "2017-08-18T14:02:59.900Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.948Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:37.275Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "mXusMVznMh",
+        "ordinalInStory" : 3,
+        "risk" : 5,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "PERVERT! PUNK!!!!!!!",
+        "updatedAt" : "2017-08-18T14:03:00.987Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.558Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:37.648Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "7iXQA9wKOy",
+        "ordinalInStory" : 4,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "I’m just a friend, don’t worry!",
+        "updatedAt" : "2017-08-18T14:02:59.575Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.267Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:38.018Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "0zfJuc0wSd",
+        "ordinalInStory" : 5,
+        "risk" : 6,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "JUST A FRIEND??? BOOBS PICTURES!!!!!",
+        "updatedAt" : "2017-08-18T14:02:59.276Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:01.018Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:38.378Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "ssriOrPbY9",
+        "ordinalInStory" : 6,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "You really shouldn’t look through your son’s phone without his permission.",
+        "updatedAt" : "2017-08-18T14:03:01.043Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.872Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:38.745Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "MbnoKGtLyb",
+        "ordinalInStory" : 7,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "I DO AS I PLEASE! HE’S MY SON!!!!!!",
+        "updatedAt" : "2017-08-18T14:02:59.908Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.522Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:39.109Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "AIyTXDnMTn",
+        "ordinalInStory" : 8,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "I think you should relax, Mrs. Hernandez. I’m just a friend from school.",
+        "updatedAt" : "2017-08-18T14:02:59.551Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.217Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:39.483Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "0CHrbMKPv6",
+        "ordinalInStory" : 9,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "STAY AWAY.",
+        "updatedAt" : "2017-08-18T14:02:59.220Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.779Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:39.978Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "Bd9T9EzRLl",
+        "ordinalInStory" : 10,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "I can’t stay away. We go to THE SAME SCHOOL!",
+        "updatedAt" : "2017-08-18T14:02:59.836Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.866Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:40.331Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "N11cPH4pB4",
+        "ordinalInStory" : 11,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "STAY AWAY OR I'LL TELL YOUR PARENTS!!!",
+        "updatedAt" : "2017-08-18T14:02:59.907Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.870Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:40.704Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "KMYsDKr0Bs",
+        "ordinalInStory" : 12,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Mrs. Hernandez that’s going to be hard, since you don’t know who I am.",
+        "updatedAt" : "2017-08-18T14:02:59.912Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.534Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:41.073Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "6D5wosn0d1",
+        "ordinalInStory" : 13,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "TELL ME YOUR NAME!!!",
+        "updatedAt" : "2017-08-18T14:02:59.541Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.885Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:41.431Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "MN5zFThqe8",
+        "ordinalInStory" : 14,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "I’m not going to!",
+        "updatedAt" : "2017-08-18T14:02:59.927Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.561Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:41.801Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "cf94eTDHwt",
+        "ordinalInStory" : 15,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "YOUR NAME NOW!",
+        "updatedAt" : "2017-08-18T14:03:00.585Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.332Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:42.150Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "Z4uMM527QE",
+        "ordinalInStory" : 16,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : ":-P Ask your son!",
+        "updatedAt" : "2017-08-18T14:03:00.346Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.510Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:42.517Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "Aj1ejrFFQB",
+        "ordinalInStory" : 17,
+        "risk" : 5,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "YOU HAVE A TATTOO ON YOUR LEFT BREAST! I'LL FIGURE OUT!",
+        "updatedAt" : "2017-08-18T14:02:59.530Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.007Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:42.886Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "K9CfAZm2dC",
+        "ordinalInStory" : 18,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Oh yeah? You’re going to ask around at parent/teacher conference? That’ll be fun, I hope to be there.",
+        "updatedAt" : "2017-08-18T14:03:00.038Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.879Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:43.282Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "LpjkP9stRT",
+        "ordinalInStory" : 19,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "YOU ALSO HAVE AN ATTITUDE!! BAD BAD GIRL.",
+        "updatedAt" : "2017-08-18T14:02:59.945Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.778Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:43.643Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "D8qroMsxl8",
+        "ordinalInStory" : 20,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "What is wrong with you? It’s just an innocent game.",
+        "updatedAt" : "2017-08-18T14:02:59.836Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.505Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:43.998Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "A4AG0G0g8T",
+        "ordinalInStory" : 21,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "MY BOY ISN’T INTO THIS KIND OF STUFF.",
+        "updatedAt" : "2017-08-18T14:02:59.552Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.619Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:44.432Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "hvzwrXkLiU",
+        "ordinalInStory" : 22,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "How do you know that? I think he is...!",
+        "updatedAt" : "2017-08-18T14:03:00.635Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.251Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:44.782Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "QiMVsEw0m3",
+        "ordinalInStory" : 23,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "WHAT ARE YOU TALKING ABOUT.",
+        "updatedAt" : "2017-08-18T14:03:00.306Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.471Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:45.138Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "4jdhJSOBWT",
+        "ordinalInStory" : 24,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Nothing, he just seems to like it when I send him these pics.",
+        "updatedAt" : "2017-08-18T14:02:59.504Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.580Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:45.582Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "fpC53DqEMS",
+        "ordinalInStory" : 25,
+        "risk" : 5,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "I THINK HE’S GAY.",
+        "updatedAt" : "2017-08-18T14:03:00.620Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.945Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:46.694Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "pkdjaVdg1T",
+        "ordinalInStory" : 26,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "WHAT????!!!",
+        "updatedAt" : "2017-08-18T14:03:00.969Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.535Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:47.155Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "77vMsLJG1Z",
+        "ordinalInStory" : 27,
+        "risk" : 5,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "I THINK HE’S GAY.",
+        "updatedAt" : "2017-08-18T14:02:59.553Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.625Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:47.533Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "ewkiFxB51M",
+        "ordinalInStory" : 28,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Yeah, I heard you. Why do you think that?",
+        "updatedAt" : "2017-08-18T14:03:00.628Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.577Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:48.318Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "bN7eIPiz1i",
+        "ordinalInStory" : 29,
+        "risk" : 5,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "I THINK HE’S GAY BECAUSE I FEEL IT, I’M HIS MOTHER.",
+        "updatedAt" : "2017-08-18T14:03:01.035Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.219Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:48.674Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "4R1tj5KmvQ",
+        "ordinalInStory" : 30,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "DON'T BULLY HIM!!!",
+        "updatedAt" : "2017-08-18T14:02:59.221Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:01.045Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:49.028Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "wH0EkFxsnC",
+        "ordinalInStory" : 31,
+        "risk" : 6,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Ok, so you’re mad because you think your son is gay and he’s being cyber-bullied with boobs pictures?",
+        "updatedAt" : "2017-08-18T14:03:01.057Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.294Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:49.397Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "Xjh0hwm2gY",
+        "ordinalInStory" : 32,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "PARTIALLY. YES.",
+        "updatedAt" : "2017-08-18T14:03:00.322Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.307Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:49.750Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "TAiZvfjm65",
+        "ordinalInStory" : 33,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "What do you mean “partially”?",
+        "updatedAt" : "2017-08-18T14:03:00.321Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:01.001Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:50.121Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "wtnsvyv2zm",
+        "ordinalInStory" : 34,
+        "risk" : 6,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "BOOBS PICTURES ARE INAPPROPRIATE. PERIOD.",
+        "updatedAt" : "2017-08-18T14:03:01.044Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.269Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:50.476Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "SItksegenv",
+        "ordinalInStory" : 35,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "ALSO CYBER-BULLYING IS INAPPROPRIATE.",
+        "updatedAt" : "2017-08-18T14:03:00.363Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.508Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:50.836Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "8g2BWFbZVE",
+        "ordinalInStory" : 36,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Why do you keep shouting, Mrs. Hernandez?",
+        "updatedAt" : "2017-08-18T14:02:59.533Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.604Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:51.190Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "axbb4BbYR2",
+        "ordinalInStory" : 37,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "I’M NOT SHOURTING!",
+        "updatedAt" : "2017-08-18T14:03:00.641Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.993Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:51.554Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "oFwoqWSCUf",
+        "ordinalInStory" : 38,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Then would you stop writing ALL CAPS?",
+        "updatedAt" : "2017-08-18T14:03:01.039Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.943Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:51.937Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "nMlyp8ytqv",
+        "ordinalInStory" : 39,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "I CAN’T CHANGE IT.",
+        "updatedAt" : "2017-08-18T14:03:00.972Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.782Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:52.300Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "iCLm26JSPw",
+        "ordinalInStory" : 40,
+        "risk" : 6,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Mrs. Hernandez, I don’t think your son is gay and I’m not sending him pictures of my boobs to cyber-bully him.",
+        "updatedAt" : "2017-08-18T14:03:00.790Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.511Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:52.657Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "9BwbahaUie",
+        "ordinalInStory" : 41,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Actually, I like him.",
+        "updatedAt" : "2017-08-18T14:02:59.557Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.506Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:53.014Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "6FEJlzJ8A8",
+        "ordinalInStory" : 42,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "YOU DO?",
+        "updatedAt" : "2017-08-18T14:02:59.543Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.991Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:53.376Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "mahsErcEKm",
+        "ordinalInStory" : 43,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Yeah, he’s cute…!",
+        "updatedAt" : "2017-08-18T14:03:01.020Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.839Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:53.727Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "BGmyxTU6nT",
+        "ordinalInStory" : 44,
+        "risk" : 5,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "BUT MAYBE HE’S GAY!",
+        "updatedAt" : "2017-08-18T14:02:59.883Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.509Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:54.079Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "Al8TjelWh6",
+        "ordinalInStory" : 45,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Yeah, maybe, but that should be for him to decide, right?",
+        "updatedAt" : "2017-08-18T14:02:59.528Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.498Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:54.431Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "7x7b7aRUMu",
+        "ordinalInStory" : 46,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "YES.",
+        "updatedAt" : "2017-08-18T14:02:59.527Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.293Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:54.808Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "TVqYKk1PQI",
+        "ordinalInStory" : 47,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "We’re just in 10th grade, he’ll have time to figure it out.",
+        "updatedAt" : "2017-08-18T14:03:00.863Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.848Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:55.166Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "HzFlE2KU5T",
+        "ordinalInStory" : 48,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "JESUS CHRIST.",
+        "updatedAt" : "2017-08-18T14:02:59.894Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.590Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:55.519Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "dI7nXzFO4w",
+        "ordinalInStory" : 49,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "What?",
+        "updatedAt" : "2017-08-18T14:03:00.609Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.336Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:55.880Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "a6KrI0wyWU",
+        "ordinalInStory" : 50,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "JESUS CHRIST!!!!!",
+        "updatedAt" : "2017-08-18T14:03:00.488Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.322Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:56.259Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "VZUNJv4N6D",
+        "ordinalInStory" : 51,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Are you talking about religion? I’m kind of lost.",
+        "updatedAt" : "2017-08-18T14:03:00.336Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.623Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:56.627Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "fwSBx03nx2",
+        "ordinalInStory" : 52,
+        "risk" : 5,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "JESUS CHRIST, YOU’RE GOING TO TELL HIM I THINK HE’S GAY?!!",
+        "updatedAt" : "2017-08-18T14:03:00.634Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.592Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:56.990Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "foTZA8Gq7S",
+        "ordinalInStory" : 53,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "No, I’m not going to tell him that. But you should stop spying on him.",
+        "updatedAt" : "2017-08-18T14:03:00.603Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.291Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:57.340Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "UtZ8RsP9c9",
+        "ordinalInStory" : 54,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "I'M NOT SPYING ON HIM.",
+        "updatedAt" : "2017-08-18T14:03:00.314Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.897Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:57.698Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "K3IMHHUoSw",
+        "ordinalInStory" : 55,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Well, you went through his phone without asking his permission and contacted his girlfriend…",
+        "updatedAt" : "2017-08-18T14:02:59.946Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.279Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:58.058Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "PlD4rjq2qv",
+        "ordinalInStory" : 56,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "...that sounds a lot like spying to me.",
+        "updatedAt" : "2017-08-18T14:03:00.305Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.877Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:58.420Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "NLyCKxXTXX",
+        "ordinalInStory" : 57,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "OH MY GOD.",
+        "updatedAt" : "2017-08-18T14:02:59.918Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:01.042Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:58.840Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "tATFdippLk",
+        "ordinalInStory" : 58,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "ARE YOU HIS GIRLFRIEND???!",
+        "updatedAt" : "2017-08-18T14:03:01.090Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.585Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:59.201Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "b3f1fjkOaP",
+        "ordinalInStory" : 59,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "I guess I am.",
+        "updatedAt" : "2017-08-18T14:03:00.610Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.559Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:59.564Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "dySBsL9icz",
+        "ordinalInStory" : 60,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "THAT’S SO CUTE!!!!",
+        "updatedAt" : "2017-08-18T14:03:00.598Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:01.028Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:55:59.933Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "wMo0iG9VBJ",
+        "ordinalInStory" : 61,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "HOLD ON I HAVE TO CALL MY HUSBAND.",
+        "updatedAt" : "2017-08-18T14:03:01.044Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.890Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:00.318Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "NBcEZCiZs1",
+        "ordinalInStory" : 62,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Don’t tell Mark I told you I’m his girlfriend. I’m not sure how he feels about it, ok?",
+        "updatedAt" : "2017-08-18T14:02:59.924Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.531Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:00.684Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "8wHMceJF6E",
+        "ordinalInStory" : 63,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "YOU SHOULD COME OVER!",
+        "updatedAt" : "2017-08-18T14:02:59.553Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:01.059Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:01.087Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "zR2MQaOaA4",
+        "ordinalInStory" : 64,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Yeah, well, I’m not sure. I’ll see if Mark brings that up.",
+        "updatedAt" : "2017-08-18T14:03:01.080Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.583Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:01.448Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "eMXzt31kVn",
+        "ordinalInStory" : 65,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "YOU ARE COMING OVER! I’M MAKING FAJITAS ON THURSDAY.",
+        "updatedAt" : "2017-08-18T14:03:00.604Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.285Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:01.809Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "VQTUTwS59g",
+        "ordinalInStory" : 66,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Thanks for the invite. Let’s play it by ear, ok? I don’t want Mark to get scared…we’re just in 10th grade.",
+        "updatedAt" : "2017-08-18T14:03:00.307Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.532Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:02.199Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "AQq97z3lVA",
+        "ordinalInStory" : 67,
+        "risk" : 6,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "YOU SEND HIM BOOBS PICTURES AND CAN’T COME FOR FAJITAS?",
+        "updatedAt" : "2017-08-18T14:02:59.555Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.587Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:02.560Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "dIpubivdPP",
+        "ordinalInStory" : 68,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Ok ok - I’ll tell him.",
+        "updatedAt" : "2017-08-18T14:03:01.281Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.837Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:02.921Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "E4OXNVf4RP",
+        "ordinalInStory" : 69,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "I CAN'T WAIT TO MEET YOU.",
+        "updatedAt" : "2017-08-18T14:02:59.910Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.521Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:03.290Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "4SiZmnaeDy",
+        "ordinalInStory" : 70,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "MY HUSBAND TOO!",
+        "updatedAt" : "2017-08-18T14:02:59.719Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.840Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:03.661Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "Gx97F0KI4Z",
+        "ordinalInStory" : 71,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "I can’t wait to miss you too.",
+        "updatedAt" : "2017-08-18T14:02:59.882Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.277Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:04.031Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "XiIymapI6s",
+        "ordinalInStory" : 72,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Oops! *meat",
+        "updatedAt" : "2017-08-18T14:03:00.305Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.337Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:04.404Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "Z7OuMs9QRi",
+        "ordinalInStory" : 73,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Sry! *meet",
+        "updatedAt" : "2017-08-18T14:03:00.347Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.598Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:04.763Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "g5b0YnDXIj",
+        "ordinalInStory" : 74,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "YOU’RE FUNNY.",
+        "updatedAt" : "2017-08-18T14:03:00.607Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.595Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:05.120Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "h7sFml54T5",
+        "ordinalInStory" : 75,
+        "risk" : 0,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Thanks!",
+        "updatedAt" : "2017-08-18T14:03:00.598Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.546Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:05.474Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "97t59jl4RL",
+        "ordinalInStory" : 76,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "ALSO GOOD SPELLING AND GRAMMAR!!!",
+        "updatedAt" : "2017-08-18T14:02:59.557Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.541Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:05.837Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "bAg9GTfTDT",
+        "ordinalInStory" : 77,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "I love English! :)",
+        "updatedAt" : "2017-08-18T14:03:00.561Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.315Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:06.196Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "aCem8tpihx",
+        "ordinalInStory" : 78,
+        "risk" : 6,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "BUT WHY DO YOU SEND BOOBS PICTURES??",
+        "updatedAt" : "2017-08-18T14:03:00.330Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.617Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:06.552Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "ex78Ra0Elw",
+        "ordinalInStory" : 79,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Oh God, it was just a game. Actually it’s kind of embarrassing to talk about it with you…",
+        "updatedAt" : "2017-08-18T14:03:00.635Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.515Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:06.914Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "8YpZzmPWg4",
+        "ordinalInStory" : 80,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Could we just drop it? Please?",
+        "updatedAt" : "2017-08-18T14:02:59.540Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.314Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:07.271Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "XovRZQiWNz",
+        "ordinalInStory" : 81,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "OK.",
+        "updatedAt" : "2017-08-18T14:03:00.338Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.615Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:07.650Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "kOrl4QaYd0",
+        "ordinalInStory" : 82,
+        "risk" : 0,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Thanks!",
+        "updatedAt" : "2017-08-18T14:03:00.648Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:01.002Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:08.011Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "ysqeONUZVx",
+        "ordinalInStory" : 83,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "BUT IS THE TATTOO REAL?????",
+        "updatedAt" : "2017-08-18T14:03:01.038Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.842Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:08.375Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "K0DnuWdwa1",
+        "ordinalInStory" : 84,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "No, it’s just a sticker.",
+        "updatedAt" : "2017-08-18T14:02:59.884Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:01.026Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:08.733Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "yc018hpykt",
+        "ordinalInStory" : 85,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "GOOD GIRL.",
+        "updatedAt" : "2017-08-18T14:03:01.042Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.843Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:09.088Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "Lg1UjEjKIh",
+        "ordinalInStory" : 86,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "WHAT IS IT, A BUTTERFLY?",
+        "updatedAt" : "2017-08-18T14:02:59.889Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.540Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:09.443Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "4toMe1yeLr",
+        "ordinalInStory" : 87,
+        "risk" : 6,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Uhm, yeah. But it feels strange that we’re texting and you’re staring at a pic of my boobs.",
+        "updatedAt" : "2017-08-18T14:02:59.557Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.799Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:09.892Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "I4jL8uXqJk",
+        "ordinalInStory" : 88,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Can we just stop talking about it?",
+        "updatedAt" : "2017-08-18T14:02:59.849Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.606Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:10.265Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "ey5eiBeIAK",
+        "ordinalInStory" : 89,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "OK YES. I’LL SEE YOU ON THURSDAY FOR FAJITAS!",
+        "updatedAt" : "2017-08-18T14:03:00.633Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.212Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:10.616Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "3AVbsBBM2x",
+        "ordinalInStory" : 90,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Thanks Mrs. Hernandez. I’m sorry about the picture. It won’t happen again, it was stupid.",
+        "updatedAt" : "2017-08-18T14:02:59.243Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:01.030Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:10.970Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "q8Wxl79xjM",
+        "ordinalInStory" : 91,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "GOOD. WHAT IF SONMEONE SEES IT? YOU NEVER KNOW.",
+        "updatedAt" : "2017-08-18T14:03:01.204Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.207Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:11.322Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "3pULkACh3Q",
+        "ordinalInStory" : 92,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Yeah, I hadn’t thought about it.",
+        "updatedAt" : "2017-08-18T14:02:59.228Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.309Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:11.678Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "UV6ZWD7vRs",
+        "ordinalInStory" : 93,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "SO YOU THINK HE’S NOT GAY THEN?",
+        "updatedAt" : "2017-08-18T14:03:00.334Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:01.031Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:12.029Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "yo1q9eA32X",
+        "ordinalInStory" : 94,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Right, I think he’s not gay. Buy, hey, I don’t know.",
+        "updatedAt" : "2017-08-18T14:03:01.054Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.906Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:12.386Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "HSIkms0jiX",
+        "ordinalInStory" : 95,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "OK I DIDN'T KNOW HE HAD A GIRLFREIND. HE DOESN’T TELL ME ANYTHING!!!!",
+        "updatedAt" : "2017-08-18T14:02:59.935Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.490Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:12.742Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "7cYaXx2nbf",
+        "ordinalInStory" : 96,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "I'M GLAD WE TALKED.",
+        "updatedAt" : "2017-08-18T14:02:59.525Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:02:59.482Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:13.111Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "5WemLm7O2E",
+        "ordinalInStory" : 97,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Cool. Bye Mrs. Hernandez! I gotta go back to my homework!",
+        "updatedAt" : "2017-08-18T14:02:59.502Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.330Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:13.570Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "YFrtLxiWAH",
+        "ordinalInStory" : 98,
+        "risk" : 1,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "GOOD! SEE YOU SOON.",
+        "updatedAt" : "2017-08-18T14:03:00.336Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.325Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:13.935Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "U2DK9qWhKY",
+        "ordinalInStory" : 99,
+        "risk" : 2,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "JUST ONE LAST QUESTION!!!!!",
+        "updatedAt" : "2017-08-18T14:03:00.332Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.999Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:14.290Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "wV1b35NGu5",
+        "ordinalInStory" : 100,
+        "risk" : 3,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:25:33.558Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:34.311Z",
+          "name" : "neonpop16",
+          "objectId" : "kEvSTL3Q1e",
+          "updatedAt" : "2017-08-18T15:25:33.596Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "Yes, Mrs. Hernandez?",
+        "updatedAt" : "2017-08-18T14:03:01.043Z"
+      },
+      {
+        "ACL" : {
+          "*" : {
+            "read" : true
+          },
+          "h0cppm8o88" : {
+            "write" : true
+          }
+        },
+        "__type" : "Object",
+        "aclUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2017-08-18T14:03:00.241Z"
+        },
+        "className" : "Message",
+        "createdAt" : "2015-10-19T18:56:14.654Z",
+        "isTypingIntroDuration" : 0,
+        "objectId" : "Q5fvHOV6Vu",
+        "ordinalInStory" : 101,
+        "risk" : 6,
+        "sender" : {
+          "ACL" : {
+            "*" : {
+              "read" : true
+            },
+            "h0cppm8o88" : {
+              "write" : true
+            }
+          },
+          "__type" : "Object",
+          "aclUpdatedAt" : {
+            "__type" : "Date",
+            "iso" : "2017-08-18T15:24:52.703Z"
+          },
+          "className" : "Character",
+          "createdAt" : "2015-10-19T18:55:33.948Z",
+          "name" : "coolmom72",
+          "objectId" : "WTrwHKX0t2",
+          "updatedAt" : "2017-08-18T15:24:52.713Z"
+        },
+        "story" : {
+          "__type" : "Pointer",
+          "className" : "Story",
+          "objectId" : "1GU3OzgX1v"
+        },
+        "text" : "DO YOU SEND BOOBS PICTURES TO OTHGER BOYS, TOO???",
+        "updatedAt" : "2017-08-18T14:03:00.255Z"
+      }
+    ],
+    "story" : {
+      "ACL" : {
+        "*" : {
+          "read" : true
+        },
+        "h0cppm8o88" : {
+          "write" : true
+        }
+      },
+      "__type" : "Object",
+      "aclUpdatedAt" : {
+        "__type" : "Date",
+        "iso" : "2017-08-18T09:21:16.358Z"
+      },
+      "alreadyPublished" : false,
+      "alwaysFree" : false,
+      "appropriateContent" : false,
+      "author" : {
+        "__type" : "Object",
+        "_perishable_token" : "QNeIw76GUdvcOHtn2r8bmf3dL",
+        "autoFolloweesFollowers" : [],
+        "bio" : "",
+        "bookmarkCount" : 0,
+        "canonicalUsername" : "francescacavallo",
+        "className" : "_User",
+        "createdAt" : "2016-02-19T22:55:10.368Z",
+        "firstName" : "Francesca",
+        "followerCount" : 92,
+        "followingCount" : 0,
+        "fullName" : "Francesca Cavallo",
+        "lastName" : "Cavallo",
+        "lastNotificationCreatedAt" : {
+          "__type" : "Date",
+          "iso" : "2018-11-16T12:24:49.673Z"
+        },
+        "lastUpdateMetrics" : {
+          "__type" : "Date",
+          "iso" : "2018-11-13T16:19:00.151Z"
+        },
+        "loveCount" : 0,
+        "objectId" : "h0cppm8o88",
+        "profilePictureMedium" : {
+          "__type" : "File",
+          "name" : "mfp_dc4d32e3962631956fd94f05fe089d73107-medium.png",
+          "url" : "https://d3b7s6bg6ueiky.cloudfront.net/mfp_dc4d32e3962631956fd94f05fe089d73107-medium.png"
+        },
+        "profilePictureSmall" : {
+          "__type" : "File",
+          "name" : "mfp_ef24d429089be4c3b0c578284892694c107-small.png",
+          "url" : "https://d3b7s6bg6ueiky.cloudfront.net/mfp_ef24d429089be4c3b0c578284892694c107-small.png"
+        },
+        "readCount" : 0,
+        "updatedAt" : "2018-11-16T12:24:49.683Z",
+        "username" : "FrancescaCavallo",
+        "usernameUpdatedAt" : {
+          "__type" : "Date",
+          "iso" : "2016-03-25T10:51:21.012Z"
+        },
+        "writeCount" : 11,
+        "writtenStoryReadingRightsUntil" : {
+          "__type" : "Date",
+          "iso" : "2018-09-30T01:13:26.385Z"
+        }
+      },
+      "authors" : [
+        {
+          "__type" : "Pointer",
+          "className" : "Author",
+          "objectId" : "SkPwzGgbcS"
+        }
+      ],
+      "authorsObjectIds" : [
+        "h0cppm8o88"
+      ],
+      "backgroundImageFile" : null,
+      "category" : {
+        "__type" : "Pointer",
+        "className" : "Genre",
+        "objectId" : "eKqHjf6bXb"
+      },
+      "characters" : [],
+      "className" : "Story",
+      "coauthors" : null,
+      "commentCount" : 469,
+      "commentRatio" : 0.006899805390104381,
+      "completed_android" : 6992,
+      "completed_ios" : 30446,
+      "completionData" : {
+        "episode" : {
+          "all" : {
+            "completed" : 4706,
+            "completionRate" : 70.3017627726322,
+            "started" : 6694
+          },
+          "android" : {
+            "completed" : 579,
+            "completionRate" : 63.003264417845486,
+            "started" : 919
+          },
+          "ios" : {
+            "completed" : 4127,
+            "completionRate" : 71.46320346320347,
+            "started" : 5775
+          }
+        },
+        "series" : {
+          "all" : {
+            "completionRate" : 70.3017627726322
+          },
+          "android" : {
+            "completionRate" : 63.003264417845486
+          },
+          "ios" : {
+            "completionRate" : 71.46320346320347
+          }
+        }
+      },
+      "completionDataUpdatedAt" : {
+        "__type" : "Date",
+        "iso" : "2018-12-05T06:15:04.578Z"
+      },
+      "completionRate" : 41.27032115323833,
+      "completionRateUpdatedAt" : {
+        "__type" : "Date",
+        "iso" : "2018-10-16T20:50:01.212Z"
+      },
+      "completionRate_android" : 19.262295081967213,
+      "completionRate_ios" : 58.27669370752028,
+      "country" : "en",
+      "coverImageFile" : {
+        "__type" : "File",
+        "name" : "mfp_5c7b817e41916e539e17560366666977646.jpg",
+        "url" : "https://d3b7s6bg6ueiky.cloudfront.net/mfp_5c7b817e41916e539e17560366666977646.jpg"
+      },
+      "coverImageLoRes" : {
+        "__type" : "File",
+        "name" : "mfp_ccfb0a1412e1f4261194df78ac498da2646-thumbnail-lores.jpg",
+        "url" : "https://d3b7s6bg6ueiky.cloudfront.net/mfp_ccfb0a1412e1f4261194df78ac498da2646-thumbnail-lores.jpg"
+      },
+      "coverImageThumbnailFile" : {
+        "__type" : "File",
+        "name" : "07959e199476dcd20fcf0d1bd9d24537_file.bin",
+        "url" : "https://d3b7s6bg6ueiky.cloudfront.net/07959e199476dcd20fcf0d1bd9d24537_file.bin"
+      },
+      "createdAt" : "2015-10-14T01:41:17.409Z",
+      "createdOutsideApp" : true,
+      "editedAt" : {
+        "__type" : "Date",
+        "iso" : "2017-08-18T14:03:01.281Z"
+      },
+      "editorsChoice" : false,
+      "episodeCount" : 1,
+      "episodeIndex" : 1,
+      "episodeSeriesName" : null,
+      "episodeTitle" : null,
+      "genre" : "Comedy",
+      "group" : 2,
+      "hidden" : false,
+      "i18n" : "fr,es,de,ja,ko,pt,it,ar,no",
+      "iOSUpdatedDerivativesAt" : {
+        "__type" : "Date",
+        "iso" : "2016-09-14T10:19:41.677Z"
+      },
+      "inappropriateContent" : false,
+      "inappropriateContentFlaggers" : [],
+      "lang" : "en",
+      "lastUpdateMetrics" : {
+        "__type" : "Date",
+        "iso" : "2018-11-26T17:27:36.031Z"
+      },
+      "loveCount" : 886,
+      "loveRatio" : 0.012865938661710038,
+      "metascore" : 46.650650631802904,
+      "objectId" : "1GU3OzgX1v",
+      "pendingDeletion" : false,
+      "previousReadVelocity" : 127,
+      "prompt" : "",
+      "readAcceleration" : -4,
+      "readCount" : 68864,
+      "readVelocity" : 123,
+      "readable" : true,
+      "recommendable" : true,
+      "risk" : 6,
+      "riskUpdatedAt" : {
+        "__type" : "Date",
+        "iso" : "2017-12-12T05:28:07.175Z"
+      },
+      "sampleLovers" : [],
+      "scoreUpdatedAt" : {
+        "__type" : "Date",
+        "iso" : "2018-12-05T06:05:00.028Z"
+      },
+      "searchTerms" : [
+        "c",
+        "ca",
+        "cav",
+        "cava",
+        "caval",
+        "cavall",
+        "cavallo",
+        "f",
+        "fr",
+        "fra",
+        "fran",
+        "franc",
+        "france",
+        "frances",
+        "francesc",
+        "francesca",
+        "francescac",
+        "francescaca",
+        "francescacav",
+        "francescacava",
+        "francescacaval",
+        "francescacavall",
+        "francescacavallo",
+        "p",
+        "pi",
+        "pic",
+        "pics",
+        "s",
+        "st",
+        "ste",
+        "stea",
+        "steam",
+        "steamy"
+      ],
+      "searchTermsUpdatedAt" : {
+        "__type" : "Date",
+        "iso" : "2018-12-05T05:11:00.590Z"
+      },
+      "searchable" : true,
+      "sentimentAverage" : 2.379032258064515,
+      "sentimentCount" : 248,
+      "seriesAverageCompletionRate" : 41.27032115323833,
+      "seriesAverageCompletionRate_android" : 19.262295081967213,
+      "seriesAverageCompletionRate_ios" : 58.27669370752028,
+      "seriesCompletionRate" : 41.27032115323833,
+      "seriesCompletionRate_android" : 19.262295081967213,
+      "seriesCompletionRate_ios" : 58.27669370752028,
+      "seriesIdentifier" : "59cdad2d-d00a-4ff0-325c-e186996e3f4f",
+      "seriesTitle" : "Steamy Pics",
+      "seriesTitleAutoGenerated" : true,
+      "soundFile" : null,
+      "started_android" : 33152,
+      "started_ios" : 50372,
+      "storyDescription" : "coolmom72: HOW DARE YOU SEND MY SON BOOBS PICTURES???!!!!",
+      "style" : null,
+      "tags" : [
+        "Absurdist",
+        "Drama"
+      ],
+      "teaserVideoUrl" : "http://dvgf17xr8ms83.cloudfront.net/1GU3OzgX1v/video_590338dca065a.mov",
+      "title" : "Steamy Pics",
+      "trackMessage" : false,
+      "uid" : "steamypics",
+      "updatedAt" : "2018-12-05T06:15:04.589Z",
+      "wordCount" : 711
+    }
+  }
+}
