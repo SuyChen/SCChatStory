@@ -15,9 +15,8 @@ static NSInteger const kChat_Romance_min_h = 40;
 
 
 NS_ASSUME_NONNULL_BEGIN
-/**
- 聊天内容计算model
- */
+
+//聊天内容计算model
 @interface CSMessageFrame : NSObject
 //名字CGRect
 @property (nonatomic, assign, readonly) CGRect nameF;
