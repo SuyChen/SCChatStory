@@ -14,7 +14,7 @@
 
 ## 项目特点
 
-* 多种对话样式
+* 多种对话小说风格
 * 使用UIViewControllerAnimatedTransitioning实现转场动画
 * 自动播放小说
 
